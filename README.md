@@ -1,2 +1,2 @@
 # cssOdev2
- google ilk ana sayfası
+ google ilk ana sayfasi
